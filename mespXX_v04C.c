@@ -305,6 +305,7 @@ void espAPCfg(void)																// Configura o SoftAP.
 }
 
 /* 100% :) */
+
 unsigned char espApConectar(void)												// Conecta a um Access Point/HUB/Roteador.
 {	
 	unsigned char str020[]={"JAP"};
