@@ -1,3 +1,8 @@
-dist/
 build/
-build/default/production/mespXX_v04C.i
+debug/
+dist/
+nbproject/
+biblioteca_v16.h
+biblioteca_v17.h
+*.pdsbak
+*.workspace
