@@ -6,3 +6,4 @@ biblioteca_v16.h
 biblioteca_v17.h
 *.pdsbak
 *.workspace
+*.PWI
